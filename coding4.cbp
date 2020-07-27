@@ -80,22 +80,7 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/zhoushuyi/Documents/VE281/HW/coding4/equity.cpp">
-			<Option target="coding4"/>
-		</Unit>
-		<Unit filename="/Users/zhoushuyi/Documents/VE281/HW/coding4/equity.h">
-			<Option target="coding4"/>
-		</Unit>
 		<Unit filename="/Users/zhoushuyi/Documents/VE281/HW/coding4/main.cpp">
-			<Option target="coding4"/>
-		</Unit>
-		<Unit filename="/Users/zhoushuyi/Documents/VE281/HW/coding4/order.cpp">
-			<Option target="coding4"/>
-		</Unit>
-		<Unit filename="/Users/zhoushuyi/Documents/VE281/HW/coding4/order.h">
-			<Option target="coding4"/>
-		</Unit>
-		<Unit filename="/Users/zhoushuyi/Documents/VE281/HW/coding4/simulation.cpp">
 			<Option target="coding4"/>
 		</Unit>
 		<Unit filename="/Users/zhoushuyi/Documents/VE281/HW/coding4/simulation.h">

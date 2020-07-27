@@ -1,8 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/coding4.dir/equity.cpp.o"
   "CMakeFiles/coding4.dir/main.cpp.o"
-  "CMakeFiles/coding4.dir/order.cpp.o"
-  "CMakeFiles/coding4.dir/simulation.cpp.o"
   "coding4"
   "coding4.pdb"
 )

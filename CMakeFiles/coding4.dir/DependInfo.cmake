@@ -4,10 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/zhoushuyi/Documents/VE281/HW/coding4/equity.cpp" "/Users/zhoushuyi/Documents/VE281/HW/coding4/cmake-build-debug/CMakeFiles/coding4.dir/equity.cpp.o"
   "/Users/zhoushuyi/Documents/VE281/HW/coding4/main.cpp" "/Users/zhoushuyi/Documents/VE281/HW/coding4/cmake-build-debug/CMakeFiles/coding4.dir/main.cpp.o"
-  "/Users/zhoushuyi/Documents/VE281/HW/coding4/order.cpp" "/Users/zhoushuyi/Documents/VE281/HW/coding4/cmake-build-debug/CMakeFiles/coding4.dir/order.cpp.o"
-  "/Users/zhoushuyi/Documents/VE281/HW/coding4/simulation.cpp" "/Users/zhoushuyi/Documents/VE281/HW/coding4/cmake-build-debug/CMakeFiles/coding4.dir/simulation.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")
 

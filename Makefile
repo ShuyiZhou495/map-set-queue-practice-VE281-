@@ -123,33 +123,6 @@ coding4/fast:
 	$(MAKE) -f CMakeFiles/coding4.dir/build.make CMakeFiles/coding4.dir/build
 .PHONY : coding4/fast
 
-equity.o: equity.cpp.o
-
-.PHONY : equity.o
-
-# target to build an object file
-equity.cpp.o:
-	$(MAKE) -f CMakeFiles/coding4.dir/build.make CMakeFiles/coding4.dir/equity.cpp.o
-.PHONY : equity.cpp.o
-
-equity.i: equity.cpp.i
-
-.PHONY : equity.i
-
-# target to preprocess a source file
-equity.cpp.i:
-	$(MAKE) -f CMakeFiles/coding4.dir/build.make CMakeFiles/coding4.dir/equity.cpp.i
-.PHONY : equity.cpp.i
-
-equity.s: equity.cpp.s
-
-.PHONY : equity.s
-
-# target to generate assembly for a file
-equity.cpp.s:
-	$(MAKE) -f CMakeFiles/coding4.dir/build.make CMakeFiles/coding4.dir/equity.cpp.s
-.PHONY : equity.cpp.s
-
 main.o: main.cpp.o
 
 .PHONY : main.o
@@ -177,60 +150,6 @@ main.cpp.s:
 	$(MAKE) -f CMakeFiles/coding4.dir/build.make CMakeFiles/coding4.dir/main.cpp.s
 .PHONY : main.cpp.s
 
-order.o: order.cpp.o
-
-.PHONY : order.o
-
-# target to build an object file
-order.cpp.o:
-	$(MAKE) -f CMakeFiles/coding4.dir/build.make CMakeFiles/coding4.dir/order.cpp.o
-.PHONY : order.cpp.o
-
-order.i: order.cpp.i
-
-.PHONY : order.i
-
-# target to preprocess a source file
-order.cpp.i:
-	$(MAKE) -f CMakeFiles/coding4.dir/build.make CMakeFiles/coding4.dir/order.cpp.i
-.PHONY : order.cpp.i
-
-order.s: order.cpp.s
-
-.PHONY : order.s
-
-# target to generate assembly for a file
-order.cpp.s:
-	$(MAKE) -f CMakeFiles/coding4.dir/build.make CMakeFiles/coding4.dir/order.cpp.s
-.PHONY : order.cpp.s
-
-simulation.o: simulation.cpp.o
-
-.PHONY : simulation.o
-
-# target to build an object file
-simulation.cpp.o:
-	$(MAKE) -f CMakeFiles/coding4.dir/build.make CMakeFiles/coding4.dir/simulation.cpp.o
-.PHONY : simulation.cpp.o
-
-simulation.i: simulation.cpp.i
-
-.PHONY : simulation.i
-
-# target to preprocess a source file
-simulation.cpp.i:
-	$(MAKE) -f CMakeFiles/coding4.dir/build.make CMakeFiles/coding4.dir/simulation.cpp.i
-.PHONY : simulation.cpp.i
-
-simulation.s: simulation.cpp.s
-
-.PHONY : simulation.s
-
-# target to generate assembly for a file
-simulation.cpp.s:
-	$(MAKE) -f CMakeFiles/coding4.dir/build.make CMakeFiles/coding4.dir/simulation.cpp.s
-.PHONY : simulation.cpp.s
-
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -240,18 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... coding4"
-	@echo "... equity.o"
-	@echo "... equity.i"
-	@echo "... equity.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
-	@echo "... order.o"
-	@echo "... order.i"
-	@echo "... order.s"
-	@echo "... simulation.o"
-	@echo "... simulation.i"
-	@echo "... simulation.s"
 .PHONY : help
 
 

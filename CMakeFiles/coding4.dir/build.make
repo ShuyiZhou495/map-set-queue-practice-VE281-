@@ -70,62 +70,17 @@ CMakeFiles/coding4.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/coding4.dir/main.cpp.s"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zhoushuyi/Documents/VE281/HW/coding4/main.cpp -o CMakeFiles/coding4.dir/main.cpp.s
 
-CMakeFiles/coding4.dir/simulation.cpp.o: CMakeFiles/coding4.dir/flags.make
-CMakeFiles/coding4.dir/simulation.cpp.o: ../simulation.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zhoushuyi/Documents/VE281/HW/coding4/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/coding4.dir/simulation.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/coding4.dir/simulation.cpp.o -c /Users/zhoushuyi/Documents/VE281/HW/coding4/simulation.cpp
-
-CMakeFiles/coding4.dir/simulation.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/coding4.dir/simulation.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zhoushuyi/Documents/VE281/HW/coding4/simulation.cpp > CMakeFiles/coding4.dir/simulation.cpp.i
-
-CMakeFiles/coding4.dir/simulation.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/coding4.dir/simulation.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zhoushuyi/Documents/VE281/HW/coding4/simulation.cpp -o CMakeFiles/coding4.dir/simulation.cpp.s
-
-CMakeFiles/coding4.dir/order.cpp.o: CMakeFiles/coding4.dir/flags.make
-CMakeFiles/coding4.dir/order.cpp.o: ../order.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zhoushuyi/Documents/VE281/HW/coding4/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/coding4.dir/order.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/coding4.dir/order.cpp.o -c /Users/zhoushuyi/Documents/VE281/HW/coding4/order.cpp
-
-CMakeFiles/coding4.dir/order.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/coding4.dir/order.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zhoushuyi/Documents/VE281/HW/coding4/order.cpp > CMakeFiles/coding4.dir/order.cpp.i
-
-CMakeFiles/coding4.dir/order.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/coding4.dir/order.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zhoushuyi/Documents/VE281/HW/coding4/order.cpp -o CMakeFiles/coding4.dir/order.cpp.s
-
-CMakeFiles/coding4.dir/equity.cpp.o: CMakeFiles/coding4.dir/flags.make
-CMakeFiles/coding4.dir/equity.cpp.o: ../equity.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zhoushuyi/Documents/VE281/HW/coding4/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/coding4.dir/equity.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/coding4.dir/equity.cpp.o -c /Users/zhoushuyi/Documents/VE281/HW/coding4/equity.cpp
-
-CMakeFiles/coding4.dir/equity.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/coding4.dir/equity.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zhoushuyi/Documents/VE281/HW/coding4/equity.cpp > CMakeFiles/coding4.dir/equity.cpp.i
-
-CMakeFiles/coding4.dir/equity.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/coding4.dir/equity.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zhoushuyi/Documents/VE281/HW/coding4/equity.cpp -o CMakeFiles/coding4.dir/equity.cpp.s
-
 # Object files for target coding4
 coding4_OBJECTS = \
-"CMakeFiles/coding4.dir/main.cpp.o" \
-"CMakeFiles/coding4.dir/simulation.cpp.o" \
-"CMakeFiles/coding4.dir/order.cpp.o" \
-"CMakeFiles/coding4.dir/equity.cpp.o"
+"CMakeFiles/coding4.dir/main.cpp.o"
 
 # External object files for target coding4
 coding4_EXTERNAL_OBJECTS =
 
 coding4: CMakeFiles/coding4.dir/main.cpp.o
-coding4: CMakeFiles/coding4.dir/simulation.cpp.o
-coding4: CMakeFiles/coding4.dir/order.cpp.o
-coding4: CMakeFiles/coding4.dir/equity.cpp.o
 coding4: CMakeFiles/coding4.dir/build.make
 coding4: CMakeFiles/coding4.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/zhoushuyi/Documents/VE281/HW/coding4/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Linking CXX executable coding4"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/zhoushuyi/Documents/VE281/HW/coding4/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable coding4"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/coding4.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
