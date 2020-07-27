@@ -1,0 +1,3 @@
+/Users/zhoushuyi/Documents/VE281/HW/coding4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/zhoushuyi/Documents/VE281/HW/coding4/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/zhoushuyi/Documents/VE281/HW/coding4/cmake-build-debug/CMakeFiles/coding4.dir
